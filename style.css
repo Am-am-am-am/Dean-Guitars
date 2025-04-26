@@ -1,0 +1,24 @@
+.Dean{background-color: black; color: aliceblue; font: bold 30px Georgia; text-align: center}
+.one{font: italic 22px Calibri; width: 500px; padding-left: 25px; padding-top: 15px;}
+.two{font: 21px Calibri; text-align: left; width: 750px; padding-top: 10px;}
+.button1{position: absolute; left: 25px; top: 925px; background: url("guitars.jpg") rgba(0, 0, 0, 0.658); background-blend-mode: multiply; text-align: center; width: 550px; height: 200px; color:aliceblue; border-radius: 10px;}
+.button11{background: url(guitars.jpg); font: bold 25px Georgia; color:aliceblue; position: relative; top: 75px}
+.img1{position: absolute; left: 800px; top: 325px}
+.img2{position: absolute; left: 550px; top: 50px}
+.img3{position: absolute; right: 0px; top: 0px}
+.img4{position: absolute; right: 10px; top: 650px}
+.img5{position: absolute; right: 500px; top: 100px}
+.img6{position: absolute; right: 50px; top: 300px}
+.img7{position: absolute; left: 100px; top: 500px}
+.img8{position: absolute; right: 20px; top: 75px}
+.img9{position: absolute; right: 0px; top: 0px}
+.img10{position: absolute; left: 0px; top: 500px}
+.img11{position: absolute; left: 200px; top: 500px}
+.img12{position: absolute; left: 400px; top: 500px}
+.img13{position: absolute; left: 600px; top: 500px}
+.button2{position: absolute; left: 625px; top: 925px; background: url("bass.jpg") rgba(0, 0, 0, 0.658); background-blend-mode: multiply; text-align: center; width: 550px; height: 200px; color:aliceblue; border-radius: 10px;}
+.button22{background: url(bass.jpg) rgba(0, 0, 0, 0.658); background-blend-mode: multiply; font: bold 25px Georgia; color:aliceblue; position: relative; top: 75px}
+.button3{position: absolute; left: 25px; top: 1150px; background: url("acoustic.jpg") rgba(0, 0, 0, 0.658); background-blend-mode: multiply; text-align: center; width: 550px; height: 200px; color:aliceblue; border-radius: 10px;}
+.button33{background: url(acoustic.jpg) rgba(0, 0, 0, 0.658); background-blend-mode: multiply; font: bold 25px Georgia; color:aliceblue; position: relative; top: 75px}
+.button4{position: absolute; left: 625px; top: 1150px; background: url("4.jpg") rgba(0, 0, 0, 0.658); background-blend-mode: multiply; text-align: center; width: 550px; height: 200px; color:aliceblue; border-radius: 10px;}
+.button44{background: url(4.jpg) rgba(0, 0, 0, 0.658); background-blend-mode: multiply; font: bold 25px Georgia; color:aliceblue; position: relative; top: 75px}
